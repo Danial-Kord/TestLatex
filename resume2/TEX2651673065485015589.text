@@ -1,0 +1,17 @@
+% !TeX spellcheck = en_US
+\documentclass[
+    10pt,
+    A4,
+    english,
+    draft = false,
+    twoside = false,
+]{article}
+
+\usepackage{curriculum-vitae}
+\begin{document}\setname{Danial}{Kordmodanlou}
+\cvtitle{Curriculum Vitae}
+\cvSection{Summary}
+\CVTextBlock{He is the Best!}
+\cvSection{Experience}
+\CVBlockWithTime{AUT}{2017 - 2022}{BSc}{}{\textbf{CGPA:}3.7}
+\end{document}
