@@ -1,0 +1,16 @@
+% !TeX spellcheck = en_US
+\documentclass[
+    10pt,
+    A4,
+    english,
+    draft = false,
+    twoside = false,
+]{article}
+
+\usepackage{curriculum-vitae}
+
+\begin{document}
+\cvSection{Summary}
+\CVTextBlock{Hello mother fathers}
+\end{document}
+
